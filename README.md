@@ -3,12 +3,12 @@ El desarrollo de esta prueba se encuentra en el documento ETL.ipynb
 
 DIRECTORIOS
 
-● Carpeta bases_excel/ con los archivos de extension .xlsx separados por tabla.
-● Carpeta images/ con las imagenes de apoyo utilizadas en el archivo .ipynb.
-● Carpeta pbi/ con los documentos asociados a la visualizacion de datos (puntos 4 y 5).
-● Carpeta sql/ con archivo backup que contiene querys utilizadas en el desarrollo de la prueba.
-● archivo ETL.ipynb/ Jupyter notebook que el desarrollo de la prueba tecnica.
-● requirements_spark.txt / Archivo que contiene las dependencias utilizadas en el desarrollo de la prueba.
+● Carpeta bases_excel/ con los archivos de extension .xlsx separados por tabla.<br>
+● Carpeta images/ con las imagenes de apoyo utilizadas en el archivo .ipynb.<br>
+● Carpeta pbi/ con los documentos asociados a la visualizacion de datos (puntos 4 y 5).<br>
+● Carpeta sql/ con archivo backup que contiene querys utilizadas en el desarrollo de la prueba.<br>
+● archivo ETL.ipynb/ Jupyter notebook que el desarrollo de la prueba tecnica.<br>
+● requirements_spark.txt / Archivo que contiene las dependencias utilizadas en el desarrollo de la prueba.<br>
 
 
 INSTALACIóN DEPENDENCIAS
